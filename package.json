@@ -12,7 +12,7 @@
     "exenv": "^1.2.0",
     "prop-types": "^15.6.0",
     "react-move": "^5.0.0",
-    "wicg-inert": "^3.0.0"
+    "wicg-inert": "https://github.com/frnk94/inert"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
